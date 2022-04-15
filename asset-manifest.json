@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-travel-blog/static/css/main.d03bac6e.css",
+    "main.js": "/React-travel-blog/static/js/main.cccfe99d.js",
+    "static/media/world-icon.png": "/React-travel-blog/static/media/world-icon.756caa0edf166628cdfa.png",
+    "static/media/location-icon.png": "/React-travel-blog/static/media/location-icon.7a3030d62a17ce0ee702.png",
+    "index.html": "/React-travel-blog/index.html",
+    "main.d03bac6e.css.map": "/React-travel-blog/static/css/main.d03bac6e.css.map",
+    "main.cccfe99d.js.map": "/React-travel-blog/static/js/main.cccfe99d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03bac6e.css",
+    "static/js/main.cccfe99d.js"
+  ]
+}
