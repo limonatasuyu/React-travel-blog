@@ -1,3 +1,7 @@
+Simple React frontend project
+
+You can see the project from here: https://limonatasuyu.github.io/React-travel-blog
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
