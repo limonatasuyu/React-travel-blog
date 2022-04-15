@@ -1,0 +1,99 @@
+* {
+	font-family: Arial;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/* ========== Header ========== */
+
+.header {
+	background-color: #f93f40;
+	height: 60px;
+}
+
+.header--elements {
+	display: flex;
+	justify-content: center;
+}
+
+.header--elements img {
+	height: 30px;
+	margin-top: 15px;
+}
+
+.header--elements h1 {
+	color: white;
+	font-size: 18px;
+	margin-left: 5px;
+	margin-top: 18px;
+}
+
+/* ========== Page Body ========== */
+
+.page--body {
+	margin-left: 15%;
+	margin-top: 8%;
+}
+
+/* ========== Content Section ========== */
+
+.content {
+	display: flex;
+	margin-bottom: 8%;
+}
+
+.img-content {
+	height: 260px;
+	width: 200px;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+.text-content {
+	margin-left: 25px;
+}
+
+.location {
+	heigth: 2em;
+	display: flex;
+	margin-top: 35px;
+}
+
+.location >* {
+	font-size: 18px;
+	font-weight: 100;
+	margin: 0;
+}
+
+.location img {
+	height: 1em;
+}
+
+.location h1 {
+	letter-spacing: 0.05em;
+	margin-left: 10px;
+}
+
+.location a {
+	color: grey;
+	margin-left: 20px;
+}
+
+.title {
+	margin-top: 10px;
+	color: #5e5568;
+}
+
+.date {
+	font-size: 15px;
+}
+
+.description {
+	margin: 0;
+	width: 430px;
+	line-height: 25px;
+	color: grey;
+}
